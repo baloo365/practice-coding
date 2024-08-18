@@ -1,0 +1,6 @@
+{
+  "typescript.tsdk": "part1_wedding/.yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "eslint.nodePath": "part1_wedding/.yarn/sdks",
+  "prettier.prettierPath": "part1_wedding/.yarn/sdks/prettier/index.cjs"
+}
